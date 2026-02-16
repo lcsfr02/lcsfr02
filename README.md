@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Felix Rodrigues</h1>
 <h3 align="center">A Full Stack Developer from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lcsfr02&label=Profile%20views&color=0e75b6&style=flat" alt="lcsfr02" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lcsfr02" alt="lcsfr02" /></a> </p>
 
 - 🔭 I’m currently working on **Open Source Projects**
